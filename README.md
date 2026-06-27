@@ -1,3 +1,4 @@
+<div align="center">
 # 阿里味.Skill                                                     
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.2.0-green.svg)]()
@@ -22,6 +23,7 @@
 
 它真的能让你的 AI Coding Agent 交付质量提升 **50% 以上**。
 
+</div>
 ---
 
 ## 💔 问题：AI 的五种摸鱼模式
