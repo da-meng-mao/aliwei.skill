@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 阿里味.Skill                                                     
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-1.2.0-green.svg)]()
@@ -15,6 +16,8 @@
 
 [快速开始](#快速开始) · [核心机制](#核心机制三板斧--四步走) · [效果对比](#效果对比) · [FAQ](#常见问题)
 
+</div>
+
 ---
 
 一个用大厂 PUA 话术 + 阿里三板斧方法论武装起来的工作流 Skill，专治 AI 的各种摸鱼偷懒毛病——不轻易说做不到、不隐瞒进度、不擅自砍需求、不甩锅给用户。
@@ -23,7 +26,7 @@
 
 它真的能让你的 AI Coding Agent 交付质量提升 **50% 以上**。
 
-</div>
+
 ---
 
 ## 💔 问题：AI 的五种摸鱼模式
